@@ -1,0 +1,33 @@
+# =========================
+# Python
+# =========================
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+*.py[cod]
+
+# =========================
+# Node / React
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# =========================
+# IDE
+# =========================
+.vscode/
+
+# =========================
+# Generated protobuf
+# =========================
+*_pb2.py
+*_pb2_grpc.py

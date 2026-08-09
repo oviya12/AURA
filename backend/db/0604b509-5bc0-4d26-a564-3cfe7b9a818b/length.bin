@@ -1,0 +1,5 @@
+UI instead of crashing the whole app. It's essential for a professional user experience."
+19. How do you perform 'Debouncing' in a search bar?
+"I use a timer (setTimeout) inside useEffect. The API call only triggers if the user stops typing for a set
+duration (e.g., 500ms), which saves server resources and prevents excessive re-renders."
+20. Why use 'Functional Components' over 'Class Components'?
